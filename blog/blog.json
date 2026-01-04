@@ -5,14 +5,16 @@
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "date": "2025-12-02",
       "image": "https://avatars.githubusercontent.com/u/48396639?v=4",
-      "url": "https://github.com/fabricio3g/personal-blog/blob/main/blog/linkedinCryptoAttack.md"
+      "url": "https://github.com/fabricio3g/personal-blog/blob/main/blog/linkedinCryptoAttack.md",
+      "markdownUrl": "https://raw.githubusercontent.com/fabricio3g/personal-blog/refs/heads/main/blog/linkedinCryptoAttack.md"
     },
     {
       "title": "Another Blog Post",
       "content": "This is another example of a blog post content.",
       "date": "2025-11-15",
       "image": "https://via.placeholder.com/150",
-      "url": "https://example.com/blog/another-post"
+      "url": "https://example.com/blog/another-post",
+      "markdownUrl": "https://raw.githubusercontent.com/fabricio3g/personal-blog/refs/heads/main/blog/linkedinCryptoAttack.md"
     }
   ]
 }
