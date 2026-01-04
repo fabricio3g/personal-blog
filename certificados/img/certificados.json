@@ -1,0 +1,22 @@
+{
+    "certificados": [
+        {
+            "name": "Certificado Alpha",
+            "img": "https://example.com/images/certificado-alpha.png",
+            "description": "Certificado de completitud del curso de programación.",
+            "link": "https://example.com/certificado-alpha"
+        },
+        {
+            "name": "Certificado Beta",
+            "img": "https://example.com/images/certificado-beta.png",
+            "description": "Certificado de completitud del curso de diseño web.",
+            "link": "https://example.com/certificado-beta"
+        },
+        {
+            "name": "Certificado Gamma",
+            "img": "https://example.com/images/certificado-gamma.png",
+            "description": "Certificado de completitud del curso de inteligencia artificial.",
+            "link": "https://example.com/certificado-gamma"
+        }
+    ]
+}

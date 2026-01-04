@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+        "name": "Project Alpha",
+        "description": "A project focused on developing AI technologies.",
+        "img": "https://example.com/images/project-alpha.png",
+        "link": "https://example.com/project-alpha",
+        "repository": "public"
+
+        },
+        {
+        "name": "Project Beta",
+        "img": "https://example.com/images/project-beta.png",
+        "description": "An initiative to improve renewable energy solutions.",
+        "link": "https://example.com/project-beta"
+        },
+        {
+        "name": "Project Gamma",
+            "img": "https://example.com/images/project-gamma.png",
+        "description": "A research project on advanced materials.",
+        "link": "https://example.com/project-gamma"
+        },
+        {
+        "name": "Project Delta",
+        "repository": "private",
+        "img": "https://example.com/images/project-delta.png",
+        "description": "A project focused on improving cybersecurity measures.",
+        "link": "https://example.com/project-delta"
+        }
+    ]
+}
